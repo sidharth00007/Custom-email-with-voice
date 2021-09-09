@@ -10,7 +10,7 @@ Instructions for usage: Step 1: First of all add your email address and its pass
 
 Step 2: In line number 40 put all the key(name of persons you want to send emails) and in the value put their emails respectively.
 
-Step 3: Then all you have to is to run the program and listen to bot.
+Step 3: Then all you have to do is to run the program and listen to bot.
 
 
 
